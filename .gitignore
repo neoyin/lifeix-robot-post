@@ -1,0 +1,9 @@
+.DS_Store
+.classpath
+.fatjar
+.idea/
+.project
+.settings/
+.svn/
+*.iml
+target/
